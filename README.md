@@ -1,33 +1,27 @@
-# ¡Hola! Soy Diego Alonso Fuenzalida Riveros👋
+# Diego Alonso Fuenzalida Riveros
 
-🎓 Estudiante de Ingeniería Civil en Computación en la Universidad de Talca.
+Computer Engineering Student at Universidad de Talca 🇨🇱
 
-Me gusta la programación, la resolución de problemas y el aprendizaje de nuevas tecnologías.
+I'm a Computer Engineering student interested in software development, cybersecurity and artificial intelligence. This GitHub profile is where I'll share my academic and personal projects as I continue learning.
 
----
+## Currently Learning
 
-## 🛠️ Mi Stack Tecnológico
+- Python
+- C++
+- Linux
 
-Actualmente estoy aprendiendo:
+## Interests
 
-- 🐍 Python
-- ☕ Java
-- 💻 C++
-- 🐧 Linux
+- 💻 Software Development
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- 🎮 Gaming
+- 📚 Continuous Learning
 
----
+- ☕ Fun fact:
+  I enjoy solving programming challenges while listening to music.
 
-## 🎯 Intereses
+## Contact
 
-- 💻 Desarrollo de Software
-- 🔐 Ciberseguridad
-- 🤖 Inteligencia Artificial
-- 🎮 Videojuegos
-- 📖 Aprendizaje continuo
-
----
-
-## 📫 Contacto
-
-- ✉️ Correo Institucional: difuenzalida26@alumnos.utalca.cl
-- ✉️ Correo Personal: diego.vlonso014@gmail.com
+- 📧 difuenzalida26@alumnos.utalca.cl
+- 📧 diego.vlonso014@gmail.com
