@@ -12,13 +12,13 @@ I'm a Computer Engineering student interested in software development, cybersecu
 
 ## Interests
 
-- 💻 Software Development
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence
-- 🎮 Gaming
-- 📚 Continuous Learning
+-  Software Development
+-  Cybersecurity
+-  Artificial Intelligence
+-  Gaming
+-  Continuous Learning
 
-- ☕ Fun fact:
+- Fun fact:
   I enjoy solving programming challenges while listening to music.
 
 ## Contact
